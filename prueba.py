@@ -9,3 +9,5 @@ for i in range(1, 11):
 
 
 print('prueba de que sabemos algo')
+
+print("Nooo sabemos nada")
