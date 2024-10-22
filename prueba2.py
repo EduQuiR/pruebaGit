@@ -5,3 +5,5 @@ for i in range(1, 11):
 print("Hola soy Clari")
 
 print("Realizando otra prueba")
+
+print("Otra prueba más de Clari :)")
